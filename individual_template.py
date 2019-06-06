@@ -2,7 +2,7 @@
 
 """
 File: template.py
-Name: Tem Tamre
+Name: Josh Smith
 
 Description: Template file to be issued for each individual assignment
 Sources: https://www.python.org/
